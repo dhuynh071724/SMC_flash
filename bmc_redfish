@@ -1,0 +1,1 @@
+https://$BMC_IP/redfish/v1/UpdateService/SmcFirmwareInventory/BMC/Actions/SmcFirmwareInventory.EnterUpdateMode
